@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomSheetTheme" parent="Theme.MaterialComponents.BottomSheetDialog">
+        <item name="android:windowBackground">@drawable/bg_sheet</item>
+        <item name="android:windowElevation">8dp</item> 4
+    </style>
+</resources>
